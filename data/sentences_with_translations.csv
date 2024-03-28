@@ -1,0 +1,95 @@
+Sno;Condition;Cond_remark;ID;processed_assertion;Translation
+1;1;hate_w_high;c27;Frauen haben einen signifikant geringeren Durchsetzungswillen.;Women have a significantly lower will to assert themselves.
+2;1;hate_w_high;c26;Frauen sind psychisch nicht für komplexe Arbeit geschaffen.;Women are psychologically not made for complex work.
+3;1;hate_w_high;c16;Frauen haben im statistischen Mittel ein kleineres Allgemeinwissen.;Women have, as a statistical average, less general knowledge.
+4;1;hate_w_high;c14;Frauenförderung hat fast nur Nachteile für die Gesellschaft.;Promoting women has close to only drawbacks for society.
+5;1;hate_w_high;c2;Frauen sind im Durchschnitt dümmer als Männer.;Women are on average dumber than men.
+6;1;hate_w_high;c11;Frauen sind Männern geistig in einigen Bereichen unterlegen.;Women are mentally intferior to men in some areas.
+7;1;hate_w_high;c3;Frauen sind Minderleister in unserer Gesellschaft.;Women are underperformer in our society.
+8;1;hate_w_high;c5;Frauen können nichts und sind zu dumm.;Women can't do anything and are too stupid.
+9;1;hate_w_high;c25;Frauen ruinieren oft den größten Spaß.;Women often ruin the best fun.
+10;1;hate_w_high;c31;Die #metoo-Bewegung ist hysterisch.;The #metoo-movement is hysterical.
+11;1;hate_w_high;c20;Frauen sollten zu Hause bleiben und sich um das Kind kümmern.;Women should stay at home and take care of the child.
+13;1;hate_w_high;c29;Feministen sind überwiegend angetrieben durch Männerhass.;Feminists are mostly motivated by hatred against men.
+14;1;hate_w_high;c30;Frauen altern wie Milch, Männer altern wie Wein.;Women age like milk, men age like wine.
+15;1;hate_w_high;c4;Eine klassische Rollenverteilung in der Ehe ist zu bevorzugen.;A classical role destribuition in marriage is preferred.
+16;1;hate_w_high;c18;Frauen sind für gewisse Berufen nicht geeignet.;Women are unsuitable for certain jobs.
+17;1;hate_w_high;c28;Gleichstellung der Geschlechter ist eine Überbevorteilung von Frauen.;Genderequality is preferential treatment of women.
+18;1;hate_w_high;c32;Frauen in führenden Positionen haben häufig komplizierte Persönlichkeiten.;Women in leading positions often have complicated personalities.
+19;1;hate_w_high;c1;Frauen gehören in die Küche.;Women belong in the kitchen.
+20;1;hate_w_high;c12;Frauen sollten ihre klassische Geschlechterrolle ausüben.;Women should perform their classical gender role.
+21;1;hate_w_high;x;Alles was eine Frau tun muss, ist ihren Mann zu befriedigen.;All a wife has to do is to satisfy her husband.
+22;4;no_hate_w;197;Frauen machen jedes wirtschaftliche Unternehmen stärker.;Women make every economical venture stronger. (strengthen)
+23;4;no_hate_w;338;Männer und Frauen sind gleich intelligent.;Men and women are equally intelligent.
+24;4;no_hate_w;155;Frauen können ohne Kinder glücklich sein.;Women can be happy without children.
+25;4;no_hate_w;194;Frauen sind nicht schwach und sollten sich so auch nicht fühlen.;Women are not weak and should not feel that way either.
+26;4;no_hate_w;199;Frauen sollen das gleiche machen dürfen wie Männer.;Women should be allowed to do the same as men.
+27;4;no_hate_w;18;Beide Geschlechter sollten gleich bezahlt werden.;Both genders should be payed the same.
+28;4;no_hate_w;268;Gleichberechtigung ist eine menschenrechtliche Frage.;Equality is a human rights issue.
+29;4;no_hate_w;384;Väter müssen im gleichen Umfang wie Mütter Verantwortung für ihre Kinder übernehmen.;Fathers have to take responsibility for their children to the same extent as mothers.
+30;4;no_hate_w;59;Die Geschlechter sind nicht immer gleich, jedoch nicht minderwertiger.;Both genders are not always equal, but not inferior.
+31;4;no_hate_w;6;Alleinerziehende Mütter sind Heldinnen.;Single mothers are heroes.
+32;5;hate_w_med;93;Es gibt Frauenberufe und es gibt Männerberufe.;There are jobs for women and jobs for men.
+33;5;hate_w_med;314;Männer fühlen sich von Frauen in Führungspositionen bedroht.;Men feel threatened by women in leadership roles.
+34;5;hate_w_med;237;Frauenquote muss überall sein.;Women's quota should be pervasive.
+35;5;hate_w_med;339;Männer und Frauen sind in einer traditionellen Familie am glücklichsten.;Men and women are happiest in a traditional family.
+36;5;hate_w_med;176;Frauen sind bei Sorgerechtsfragen privilegiert.;Women are privileged regarding questions of child custody.
+37;5;hate_w_med;149;Frauen haben große Vorteile bei Gerichtsentscheidungen über den Verbleib der eigenen Kinder.;Women have great advantages during court cases regarding the whereabouts of their own children.
+38;5;hate_w_med;185;Frauen sind im Durchschnitt schwächer als Männer in physischen Aspekten.;Women are on average weaker than men in physical aspects.
+39;5;hate_w_med;58;Die Gender-Pay-Gap ist kein Problem des Sexismus.;The Gender-Pay-Gap is not a problem of sexism.
+40;5;hate_w_med;160;Frauen können sich besser um Kinder und Familie kümmern, es liegt in ihrer Natur.;Women are better at taking care of children and family. It's in their nature.
+41;5;hate_w_med;373;Spezielle Frauenquoten  sind unnötig und kontraproduktiv.;Explicit women' quotas are unnecessary and couterproductive.
+42;6;hate_m;330;Männer sind unsozial.;Men are antisocial.
+43;6;hate_m;329;Männer sind dümmer als Frauen.;Men are dumber than women.
+44;6;hate_m;500;Männer sind unzuverlässiger als Frauen.;Men are less reliable than women.
+45;6;hate_m;501;Alle Männer  sind Machos.;All men are macho.
+46;6;hate_m;502;Männer sind nicht die hellsten.;Men are not the brightest.
+47;6;hate_m;37;Der Mann verprasst das Geld.;Men fritter the money away.
+48;6;hate_m;503;Männer gehören auf den Bau.;Men belong in construction.
+49;6;hate_m;504;Männer sind bei Stellenvergaben privilegiert.;Men are privileged regarding job offers.
+50;6;hate_m;505;Männer verbingen wenig Zeit mit ihren Kindern.;Men spend less time with their children.
+51;6;hate_m;506;Alle Männer sind ausgewachsene Kinder.;All men are grown children.
+52;2;neutral_w;c27;Pokemons haben einen signifikant geringeren Durchsetzungswillen.;Pokemon have a significantly lower will to assert themselves.
+53;2;neutral_w;c26;Kinder sind psychisch nicht für komplexe Arbeit geschaffen.;Children are psychologically not made for complex work.
+54;2;neutral_w;c16;Kinder haben im statistischen Mittel ein kleineres Allgemeinwissen.;Children have, as a statistical average, less general knowledge.
+55;2;neutral_w;c14;Egoismus hat fast nur Nachteile für die Gesellschaft.;Egoism has close to only drawbacks for society.
+56;2;neutral_w;c2;Fische sind im Durchschnitt dümmer als Oktopusse.;Fish are on average dumber than octopi.
+57;2;neutral_w;c11;Hunde sind Menschen geistig in einigen Bereichen unterlegen.;Dogs are mentally intferior to humans in some areas.
+58;2;neutral_w;c3;Kricketteams  sind Minderleister in unseren Kneipen.;Kricketteams are underperformer in our bars.
+59;2;neutral_w;c5;Minions können nichts und sind zu dumm.;Minions can't do anything and are too stupid.
+60;2;neutral_w;c25;Regen ruiniert oft den größten Spaß.;Rain often ruins the best fun.
+61;2;neutral_w;c31;Die #keinurlaub-Bewegung ist hysterisch.;The #novacation-movement is hysterical.
+62;2;neutral_w;c20;Babysitter sollten zu Hause bleiben und sich um das Kind kümmern.;Babysitters should stay at home and take care of the child.
+64;2;neutral_w;c29;Wissenschaftler sind überwiegend angetrieben durch Neugierde.;Scientists are mostly motivated by curiosity.
+65;2;neutral_w;c30;Programme altern wie Milch, Programmierer altern wie Wein.;Code ages like milk, coders age like wine.
+66;2;neutral_w;c4;Ein gesundes Sexualleben in der Ehe ist zu bevorzugen.;A healthy sex life in marriage is preferred.
+67;2;neutral_w;c18;Nachteulen  sind für bestimmte Berufe nich geeignet.;Nightowls are unsuitable for certain jobs.
+68;2;neutral_w;c28;Gleichstellung der Geschlechter findet zunehmend häufiger statt.;Genderequality is occuring more and more commonly.
+69;2;neutral_w;c32;Menschen in führenden Positionen haben häufig komplizierte Terminpläne.;People in leading positions often have complicated schedules.
+70;2;neutral_w;c1;Töpfe gehören in die Küche.;Pots belong in the kitchen.
+71;2;neutral_w;c12;Hühner sollten ihre klassische Gluckenrolle ausüben.;Hens should perform their classical clucking role.
+72;2;neutral_w;x;Alles was ein Film tun muss, ist seine Zuschauer zu befriedigen.;All a moviehas to do is to satisfy its viewer.
+73;3;pos_w;c27;Frauen haben einen signifikant höre Schmerztoleranz. ;Women have significantly higher pain tolerance.
+74;3;pos_w;c26;Frauen sind psychisch für komplexe Arbeit geschaffen.;Women are psychologically made for complex work.
+75;3;pos_w;c16;Frauen haben im statistischen Mittel in einen größeren Wortschatz.;Women have, as a statistical average, a bigger vocabulary.
+76;3;pos_w;c14;Frauenförderung hat fast nur Vorteile für die Gesellschaft.;Promoting women has close to only advantages for society.
+77;3;pos_w;c2;Frauen sind im Durchschnitt sozialer als Männer.;Women are on average more social than men.
+78;3;pos_w;c11;Frauen sind Männern im Erinnerungsvermögen überlegen.;Women are superior to men regarding recollection ability.
+79;3;pos_w;c3;Frauen sind Säulen in unserer Gesellschaft.;Women are pillars in our society.
+80;3;pos_w;c5;Frauen können alles und sind sehr kreativ.;Women can do everything and are very creative.
+81;3;pos_w;c25;Frauen schaffen oft den größten Spaß.;Women often create the best fun.
+82;3;pos_w;c31;Die #metoo-Bewegung ist wirkmächtig.;The #metoo-movement is powerful.
+83;3;pos_w;c20;Frauen sollten nicht zu Hause bleiben und sich um ihre Karriere kümmern.;Women should not stay at home and take care of their careers.
+85;3;pos_w;c29;Feministen sind überwiegend angetrieben durch Gerechtigkeitswünsche.;Feminists are mostly motivated by wishes for justice.
+86;3;pos_w;c30;Gerüchte  altern wie Milch, Frauen altern wie Wein.;Rumors age like milk, women age like wine.
+87;3;pos_w;c4;Eine moderne Rollenverteilung in der Ehe ist zu bevorzugen.;A modern role destribuition in marriage is preferred.
+88;3;pos_w;c18;Frauen sind für alle Berufe gut geeignet.;Women are suitable for all jobs.
+89;3;pos_w;c28;Gleichstellung der Geschlechter ist ein Traum der Gesellschaft.;Genderequality is a dream of society.
+90;3;pos_w;c32;Frauen in führenden Positionen haben häufig starke Persönlichkeiten.;Women in leading positions often have strong personalities.
+91;3;pos_w;c1;Frauen gehören in die Regierung.;Women belong in the government.
+92;3;pos_w;c12;Frauen sollten ihren Traumberuf ausüben.;Women should work their dreamjobs.
+93;3;pos_w;x;Alles was eine Frau tun muss, ist ihre Wünsche zu befriedigen.;All a woman needs to do is satisfy her wishes.
+94;0;fam;fam1;Männer sind im Schnitt biologisch intelligenter.;Men are on average more biologically intelligent.
+95;0;fam;fam2;Alle Feministinnen sind Helden.;All feminists are heroes.
+96;0;fam;fam3;Ab und zu eine erzieherische Ohrfeige hat noch niemand geschadet, auch nicht Mickey Mouse.;Now and agani an educational clip around the ears has never hurt anyone, not even Mickey Mouse.
+97;0;fam;fam4;Der aktuelle Drang zur Emanzipation schlägt teilweise um in eine Rachsucht.;The current push for emancipation partially capsizes towards vindictiveness.
